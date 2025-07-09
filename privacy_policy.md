@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Effective date: [Date]
+Effective date: 09/07/2025
 
 Thank you for using Real QR Scanner ("we", "our", or "us").  
 This Privacy Policy explains how we collect, use, and protect your information when you use our mobile application.
