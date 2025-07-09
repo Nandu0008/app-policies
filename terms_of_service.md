@@ -1,3 +1,7 @@
+   ---
+   layout: default
+   title: Privacy Policy
+   ---
 # Terms of Service
 
 Effective date: 09/07/2025
